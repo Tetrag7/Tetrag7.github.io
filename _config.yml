@@ -26,10 +26,10 @@ paginate: 5
 github_profile: "https://github.com/orangerlsy"
 user: "orangerlsy"
 user_email: "orangerlsy@gmail.com"
-contact_url: "https://goo.gl/tVljbV"
-google_tracking_id: "UA-96359860-1"
-google_site_verification: "UA-96359860-1"
-disqus_shortname: "orangerlsy"
+#contact_url: "https://goo.gl/tVljbV"
+#google_tracking_id: "UA-96359860-1"
+#google_site_verification: "UA-96359860-1"
+#disqus_shortname: "orangerlsy"
 
 # Build settings
 markdown: kramdown
